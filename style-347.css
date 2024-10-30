@@ -1,0 +1,50 @@
+input {
+    width: 90px;
+}
+input[type="submit"] {
+    width: 150px;
+}
+.wrap h1 {
+    width: fit-content;
+    border: 1px solid grey;
+    padding: 8px 15px 12px;
+    border-radius: 7px;
+}
+.wrap {
+    margin: 10px 20px 10px 2px;
+}
+.wrap-mci {
+    margin-top: 15px;
+    width: 400px;
+    border: 1px #a7a7a7 solid;
+    border-radius: 8px;
+    padding: 15px 30px;
+    height: 160px;
+}
+.wrap-mci div {
+    float: left;
+    width: 100%;
+    padding: 0;
+    margin-bottom: 15px;
+}
+.wrap-mci div label,
+.wrap div input {
+    float: left;
+}
+.btn {
+    padding: 0;
+}
+.error {
+    color: red;
+    font-size: 22px !important;
+}
+h2 {
+    font-size: 23px;
+    font-weight: 600 !important;
+}
+.woocommerce_page_invoices-by-customer-347 .widefat th,
+.woocommerce_page_invoices-by-customer-347 .widefat td {
+  padding: 5px;
+  line-height: 1.2 !important;
+  text-align: center;
+}
